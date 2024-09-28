@@ -23,4 +23,11 @@
     <redirect>n</redirect>
   </panel>
 
+  <panel>
+    <number>4</number>
+    <image>https://github.com/Kcaputo19/KSUN/blob/main/KSUNLogo1024%C3%971024px.png?raw=true</image>
+    <url>https://www.ksunradio.org/</url>
+    <redirect>n</redirect>
+  </panel>
+  
 </rotator>
