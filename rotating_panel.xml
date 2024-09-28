@@ -4,22 +4,22 @@
 
   <panel>
     <number>1</number>
-    <image>https://sample.com/image1.jpg</image>
-    <url>https://sample.com/donate</url>
+    <image>https://github.com/Kcaputo19/KSUN/blob/main/KSUNLogo1024%C3%97500px.png?raw=true</image>
+    <url>https://www.ksunradio.org/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://sample.com/image2.jpg</image>
-    <url>https://sample.com/news</url>
+    <image>https://github.com/Kcaputo19/KSUN/blob/main/KSUNLogo512%C3%97512px.png?raw=true</image>
+    <url>https://www.ksunradio.org/</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://sample.com/image3.jpg</image>
-    <url>https://sample.com/events</url>
+    <image>https://github.com/Kcaputo19/KSUN/blob/main/KSUNLogo576%C3%97144px.png?raw=true</image>
+    <url>https://www.ksunradio.org/</url>
     <redirect>n</redirect>
   </panel>
 
